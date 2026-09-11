@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every profile must be visibly labeled “Sample profile,” use fictional contact details, and present recruitment filters as optional browsing aids—not scores, rankings, or automated decisions about people.
 
 ## Workflow
 
